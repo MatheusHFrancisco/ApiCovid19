@@ -1,7 +1,7 @@
 {
   "name": "ApiCovid19",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api com dados de casos do covid19",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "MatheusHFrancisco",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
